@@ -1,7 +1,7 @@
 ==============
 DESCRIPTION
 ==============
-Indonesian Dark Wordlist is the complete wordlist using Bahasa Indonesia from KBBI (Dictionary Indonesian Language). We provide all of the combination each word which listed at KBBI, by the purpose of this project is to make the first completed indonesian wordlist.
+Indonesian Dark Wordlist is the complete wordlist using Bahasa Indonesia from KBBI (Dictionary Indonesian Language). We provide all of the combination each word which listed at KBBI, the purpose of this project is to make the first completed indonesian wordlist.
 Finally, the generated wordlist of this project can be used for bruteforce method or aircracking WPA.
 For supporting this project, i use the Common User Passwords Profiler (CuPP). CuPP will help this project for generating the wordlist. You can download CuPP (lastest version is v3) on http://www.remote-exploit.org/articles/misc_research__amp_code/index.html
 
